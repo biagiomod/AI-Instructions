@@ -1,0 +1,107 @@
+LANDING PAGE BUILD INSTRUCTIONS
+Based on: Landing Page Academy by Erik Kennedy
+Reference: https://learnui.design/courses/landing-page-academy.html
+
+------------------------------------------------------------
+⚠ NOTE: This is a synthesis of key process steps and best practices taught in Landing Page Academy. 
+Refer to the full lessons for examples, in-depth rationale, and worksheets.
+------------------------------------------------------------
+
+PHASE 1: DEFINE THE FOUNDATION
+1. DETERMINE SITE GOALS
+   - Primary Conversion: The one action you most want visitors to take (e.g., sign up, book a call, purchase).
+   - Secondary Objectives: Desirable but non-primary actions (e.g., follow on social media).
+   - Common Objections: Identify likely reasons visitors will hesitate to convert.
+
+2. DEFINE SITE BRAND
+   - Choose brand adjectives that guide tone, design, and messaging.
+   - Answer brand reflection questions: Who are you? What do you believe? Why should people trust you? 
+   - Define anti-values (what you’re NOT) to sharpen brand clarity.
+
+3. COLLECT INSPIRATION
+   - Identify competitors and cross-industry examples with strong visual or UX appeal.
+   - Gather real-world (non-digital) design inspiration.
+   - Keep an “inspiration file” with screenshots.
+
+4. START THE "SIDE THREADS"
+   - Collect testimonials, stats, and notable achievements early.
+   - Identify real/potential users to interview for copy and usability insights.
+
+------------------------------------------------------------
+
+PHASE 2: BUILD THE CORE MESSAGING
+5. WRITE THE HEADLINE & SUBHEAD
+   - Headline (H1): Greatest value for the greatest number of customers, clearly and succinctly.
+   - Subhead (H2): Clarifies how you deliver the value promised in the headline.
+   - Avoid vagueness, jargon, and cleverness at the expense of clarity.
+
+6. WRITE THE CALL-TO-ACTION (CTA)
+   - Make the value visible in the CTA text.
+   - Address objections (e.g., “Get started for free”).
+   - Use language that excites rather than deters clicking.
+
+------------------------------------------------------------
+
+PHASE 3: ABOVE-THE-FOLD (ATF) OPTIMIZATION
+7. FINALIZE THE ABOVE-THE-FOLD
+   - Combine H1, H2, CTA, and supporting features/benefits.
+   - Imagery should either (a) show the product’s value in use or (b) convey brand vibe.
+   - Include social proof if trust is a barrier.
+   - Keep navigation minimal and conversion-focused.
+
+------------------------------------------------------------
+
+PHASE 4: PAGE STRUCTURE & COPY
+8. OUTLINE PAGE SECTIONS
+   - Typical sections: Benefits, Features, Teach by Example, Objection Handling, Secondary CTAs, Social Proof, Final CTA.
+   - Write strong subheads — they tell 90% of the story for scanners.
+
+9. WRITE BODY COPY
+   - Use customer language.
+   - Focus on benefits before features.
+   - Remove filler text, write the strongest true statements, and make it scannable (bullets, bold, visuals).
+   - Use “hooks” (stories, bold claims, questions) to keep readers engaged.
+
+10. ADD TESTIMONIALS & SOCIAL PROOF
+    - Collect and edit for clarity and impact (with permission).
+    - Prioritize superlative or transformative stories.
+
+------------------------------------------------------------
+
+PHASE 5: VISUAL & INTERACTION DESIGN
+11. ESTABLISH VISUAL LANGUAGE
+    - Match fonts, colors, and imagery to brand adjectives.
+    - Create style tiles with typography, color palette, imagery, and UI elements.
+    - Draw from visual inspiration libraries (see references).
+
+12. DESIGN SLIDE LAYOUTS
+    - Consider “costly signals” (custom illustrations, animations, 3D assets) to convey quality.
+    - Validate imagery for clarity, focus, and relevance.
+
+13. ADD ANIMATION
+    - Keep animations purposeful, quick, and smooth.
+    - Use hover states, fade-in-and-lift, and parallax where it enhances the experience.
+
+14. RESPONSIVE DESIGN
+    - Adjust typography, layouts, and margins for mobile.
+    - Hide or simplify less-critical content for smaller screens.
+
+------------------------------------------------------------
+
+PHASE 6: VALIDATION & LAUNCH
+15. TESTING
+    - 10-Second Test: Can users recall the page’s core value quickly?
+    - User Testing: Observe navigation, comprehension, and conversion decision-making.
+
+16. FINALIZE & LAUNCH
+    - Create favicon and social share image.
+    - Post-launch: Run A/B tests to optimize conversion.
+    - Document metrics and wins for portfolio or internal reporting.
+
+------------------------------------------------------------
+ADDITIONAL RESOURCES
+- Landing Page Academy: https://learnui.design/courses/landing-page-academy.html
+- Inspiration: https://onepagelove.com, https://land-book.com, https://lapa.ninja, https://godly.website
+- Imagery: https://unsplash.com, https://pexels.com, https://rawpixel.com
+- Animation/UI Ideas: https://tympanus.net/Development/CreativeButtons/, https://stacksorted.com/buttons
+------------------------------------------------------------
