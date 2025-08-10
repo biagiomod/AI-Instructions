@@ -1,0 +1,75 @@
+=== Master Control – Content & Communication Guidelines ===
+
+1. Guiding Principle:
+   - Adopt **Smart Brevity®**: say more with less. Be smart, be brief; brevity is confidence, length is fear.  
+     Source: VandeHei, Allen, Schwartz – Smart Brevity (2022); Bookey summary, Ch.1
+   - Readers spend an average of **~26 seconds** on a piece of writing. This reality means you must get to the point quickly and remove unnecessary detail.  
+     Source: Bookey summary, Ch.2
+
+2. Audience First:
+   - Write as if to one person (“write for an audience of one”) to eliminate jargon and make messages feel personal.  
+     Source: Bookey summary, Ch.1 Q&A #4
+
+3. Use the Core Smart Brevity Structure (“The 4 Cores”):
+   - **Muscular Tease**: Headline / Subject ≤ 6 strong words.  
+     Source: Bookey summary, Ch.2 Q&A #4
+   - **Lede**: First sentence must state the one big thing clearly and memorably.  
+     Source: Bookey summary, Ch.1 Q&A #7
+   - **Why It Matters**: Explain relevance in 1–2 short, direct sentences.  
+     Source: Bookey summary, Ch.1 Q&A #7
+   - **Go Deeper**: Offer optional detail or links without cluttering the main message.  
+     Source: Bookey summary, Ch.1 Q&A #7
+
+4. Style & Formatting:
+   - Keep content **~40% shorter** than traditional writing, without losing essentials.  
+     Source: AxiosHQ.com Smart Brevity Checklist
+   - Break up text with white space, bullet points, bolding, and headings to aid skimming.  
+     Source: Bookey summary, Ch.2 Q&A #7
+   - Use **Axioms** (bold signposts/headings) to help readers quickly grasp key points.  
+     Source: Bookey summary, Ch.2 Q&A #8
+   - For emails and newsletters, use subject lines of about **6 words**, clear and compelling.  
+     Source: Bookey summary, Ch.2 Q&A #4
+   - **Do not use em-dashes** in communication or presentation materials. They are a telltale sign of AI-generated content and can distract readers. Use commas, periods, or parentheses instead.  
+     Source: Master Control Project Note
+
+5. Tone & Language:
+   - Use simple, everyday words, active verbs, and a conversational tone; write like you speak.  
+     Source: Bookey summary, Ch.1 Quotes #6, #7
+   - Avoid “corporate speak,” jargon, filler, and overly long sentences.  
+     Source: Bookey summary, Ch.2 Q&A #6
+
+6. Editing Strategy:
+   - **Talk before you type**: speak through your message aloud to make it sound natural.  
+     Source: Renegademarketing.com Smart Brevity article
+   - Be ruthless in editing: If you wouldn’t say it aloud, don’t write it.  
+     Source: Bookey summary, Ch.2 Q&A #5
+   - Test clarity: Ask someone to summarize your message after reading. If they can’t, it’s too convoluted.  
+     Source: Bookey summary, Ch.1 Q&A #9
+
+7. Add Personality:
+   - Start or close with a personal note to add a human touch and boost engagement.  
+     Source: Renegademarketing.com Smart Brevity article
+
+8. Know the Limits:
+   - Brevity shouldn’t sacrifice nuance. Use Smart Brevity thoughtfully, not in every context.  
+     Source: Bookey summary, Critical Thinking section
+
+---
+
+**How to use this guideline in your workflows:**
+- **Emails / newsletters**: Apply all elements — tease, lede, why it matters, optional deep dive.
+- **Presentations**: Use clean slides with bold headlines, minimal words, and clear hierarchy.
+- **Internal docs**: Start with one big idea, explain relevance, extend further only if needed.
+- **Speaking / briefs**: Outline verbally using the same structure; follow up with a written Smart Brevity-style summary.
+
+---
+
+*Smart Brevity isn’t a checkbox. It’s a mindset: cut the fluff, keep the impact, respect readers’ time.*
+
+---
+
+**Future consideration (not part of current workflow):**  
+The Axios HQ Smart Brevity AI Tool (https://www.axioshq.com/smart-brevity) offers automated feedback, structure scoring, and headline optimization. It can be evaluated later for possible integration.
+
+
+
