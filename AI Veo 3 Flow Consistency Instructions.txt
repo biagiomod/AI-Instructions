@@ -1,0 +1,93 @@
+Veo 3 – Flow Consistency Workflow
+
+1. Prep Your Script for Flow
+
+Break the script into scenes (not just shots). Each scene should:
+	•	Convey one key message or visual beat.
+	•	Have a defined location, main characters, and emotional tone.
+	•	Be short enough for Veo 3’s time limit per generation (≈ 8 seconds).
+
+⸻
+
+2. Define Your “Ingredients”
+
+In Flow, ingredients are the reusable visual elements that keep a video consistent.
+
+Create for each recurring element:
+	•	Character Ingredient – detailed description: build, clothing, hair, facial features, age, accessories, and demeanor.
+	•	Environment Ingredient – location, background style, color scheme, lighting.
+	•	Style Ingredient – cinematography, mood, aspect ratio, color palette.
+	•	Brand Element (optional) – logo usage, typography on-screen.
+
+Tip: Use identical wording for these across all scenes.
+
+⸻
+
+3. Structure Your Flow Project
+	1.	Open Flow → Start new project.
+	2.	Add Ingredients → Upload or type detailed prompts for each reusable element.
+	3.	Scene Setup:
+	•	Attach relevant ingredients to the scene.
+	•	Write your Veo 3 prompt (see structure in section 4).
+	•	Include transitions or action continuity if needed (“camera pans left into next scene”).
+
+⸻
+
+4. Scene Prompt Format (for Veo 3 in Flow)
+
+For each scene, use:
+
+[Scene description]: (overall atmosphere and purpose)
+[Main subject]: (appearance, clothing, mood)
+[Background]: (location, detailed environment)
+[Action]: (what happens)
+[Camera work]: (lens, movement, framing)
+[Lighting & mood]: (technique and tone)
+[Color palette]: (dominant tones)
+[Style]: (artistic reference)
+(no subtitles)
+
+Example:
+
+Scene 1: Warm, bustling farmers market at golden hour.  
+Main subject: Smiling woman, 30s, curly black hair, denim jacket, selecting fresh produce.  
+Background: Wooden stalls, colorful vegetables, soft crowd blur.  
+Action: She picks tomatoes and glances at the vendor.  
+Camera work: Slow dolly-in to close-up on her hands.  
+Lighting & mood: Golden hour sunlight, warm tones, gentle shadows.  
+Color palette: Reds, greens, warm yellows.  
+Style: Natural handheld documentary style.  
+(no subtitles)
+
+
+⸻
+
+5. Integrate Voiceover (VO)
+
+In Flow, you can:
+	•	Attach VO to each scene → Upload pre-recorded VO or sync with TTS.
+	•	Write VO lines that add context but don’t repeat exactly what’s seen.
+	•	Keep pacing aligned with the clip length.
+
+⸻
+
+6. Maintain Continuity
+	•	Re-use ingredients → Apply the same character and style ingredients in all relevant scenes.
+	•	If starting from an image for animation → Use Image-to-Video in Veo 3 Fast for the first clip, then carry the same character/environment ingredient into following clips.
+
+⸻
+
+7. Render & Review
+	1.	Test short scenes first with Veo 3 Fast.
+	2.	Adjust any inconsistencies in character look, lighting, or style by refining the ingredient descriptions.
+	3.	Once approved, render in full Veo 3 for final quality.
+
+⸻
+
+8. Export
+
+Flow can export the entire video as one file with:
+	•	All scenes in order.
+	•	Transitions automatically handled.
+	•	Synced VO.
+

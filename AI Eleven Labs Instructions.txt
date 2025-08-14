@@ -1,0 +1,81 @@
+Instruction: Eleven v3 VO Generation with Audio Tags
+
+Objective
+Enable precise vocal performance in ElevenLabs v3 using audio tags to control emotion, pacing, sound effects, accents, and character.
+
+⸻
+
+1. Select Appropriate Voice & Stability
+	•	Choose a voice suitable for your intent (e.g., expressive, whispering, shouting). Instant Voice Clones (IVCs) or designed voices perform best. Professional Voice Clones (PVCs) are not fully optimized for v3.  
+	•	Set stability to Creative for maximum expressiveness, Natural for balance, or Robust for consistency. Tags are less responsive in Robust mode.  
+
+⸻
+
+2. Insert Audio Tags in Text
+
+Syntax: [tag] inserted where effect should begin.
+Tags are case‑insensitive; lowercase recommended.   
+
+Tag Categories
+	•	**Voice-related (emotion, tone, delivery):**
+[laughs], [laughs harder], [starts laughing], [wheezing]
+[whispers]
+[sighs], [exhales]
+[sarcastic], [curious], [excited], [crying], [snorts], [mischievously]  
+	•	Delivery control (timing, rhythm):
+[pause], [breathes], [continues after a beat], [rushed], [slows down], [deliberate], [rapid‑fire], [stammers], [drawn out], [repeats], [timidly], [emphasized], [stress on next word], [understated]  
+	•	Narrative flow/emotional rhythm:
+[awe], [dramatic tone], [reflective], [lighthearted], [serious tone], [wistful], [matter‑of‑fact]   
+	•	Sound effects:
+[gunshot], [applause], [clapping], [explosion], [swallows], [gulps]  
+	•	**Accents and special effects:**
+[strong X accent] (replace X with accent, e.g., French)
+[sings], [woo], [fart]   
+	•	Character and performance style:
+[pirate voice], [childlike tone], [robotic tone], etc.   
+
+⸻
+
+3. Combine Tags Strategically
+	•	Stack tags to blend effects: e.g., [hesitant][nervous] I… I’m not sure this will work. [gulps]  
+	•	Use delivery tags with emotional or accent tags for layered performance: e.g., [whispering][pause] Did you hear that? [rushed] Hide! Now!  
+
+⸻
+
+4. Use Punctuation to Reinforce Delivery
+	•	Ellipses add natural pauses.
+	•	Capitalization adds emphasis.
+	•	Commas and periods create natural rhythm.
+	•	Combine tags with proper punctuation for strongest effect, e.g.
+"It was a VERY long day [sigh] … nobody listens anymore."   
+
+⸻
+
+5. Test and Adjust
+	•	Tag effectiveness varies by voice. A whispering voice may not handle [shout].  
+	•	Creative mode improves responsiveness but accuracy may vary.  
+	•	Users report tags like [WHISPER], [LAUGHS SOFTLY], [French accent] work but results vary.  
+
+⸻
+
+6. Example Scripts
+
+[whispers] I never thought we’d make it out alive.
+[pause] But here we are.
+[excited] Did you see the sky? [applause] They did it!
+[strong French accent] “Zat’s life, my friend — you can’t control everysing.”
+[hesitant][nervous] I… I’m not sure this is going to work. [gulps]
+
+
+⸻
+
+Summary Table
+
+Step	Action
+1. Voice & Stability	Use expressive or balanced modes, match voice style
+2. Insert Tags	Wrap relevant cues in brackets tailored to emotion, pacing, style
+3. Combine Tags	Stack for complex performance effects
+4. Punctuation	Use ellipses, capitals, etc. to enhance delivery
+5. Test	Validate across voices; adjust based on responsiveness
+Example Scripts	Embed tags inline at articulation points
+
